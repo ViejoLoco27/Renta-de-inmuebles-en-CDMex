@@ -43,7 +43,7 @@ La finalidad de la actividad es dar los primeros pasos en el análisis y explora
 
 ### Análisis Exploratorio de los Datos
 - 📊 Valores promedio del alquiler por tipo de inmueble
-
+![Image](https://github.com/user-attachments/assets/50faaec5-63db-4b5c-ab80-d5737bb41a5a)
 - 📊 Porcentaje de participación por inmueble
 ### Tratamiento de valores nulos
 ### Tratamiento de registros inconsistentes
